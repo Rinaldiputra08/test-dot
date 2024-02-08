@@ -31,6 +31,14 @@
     </ul>
   </li>
   <li>
+    <strong>Konfigurasi .env:</strong>
+    <ul>
+      <li>Tambahkan code ini di paling bawah file .env untuk mengatur data akan di ambil dari database atau dari api raja ongkir</li>
+        <li> RAJAONGKIR_API_KEY=0df6d5bf733214af6c6644eb8717c92c</li>
+        <li>RAJAONGKIR_USE_DATABASE=true</li>
+    </ul>
+  </li>
+  <li>
     <strong>Testing Aplikasi Menggunakan Postman:</strong>
     <ul>
       <li>Buka Postman dan buat tiga request baru:</li>
