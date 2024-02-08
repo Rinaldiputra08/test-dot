@@ -89,6 +89,7 @@
 
 <h1>Sprint 2</h1>
 
+Pada sprint 2 saya membuat 1 file ProvinceCityService untuk sumber data, lalu saya menambahkan konfigurasi di env dengan menambahkan kan RAJAONGKIR_USE_DATABASE=true jika nilai nya true maka data yang akan di ambil dari database, jika nilai nya false makan data akan di ambil dari api raja ongkir sehingga Proses swap implementasi dapat dilakukan melalui konfigurasi tanpa merubah source code yang sudah dibuat.
 <ol>
   <li>
     <strong>Pindah ke Branch Sprint 2:</strong>
