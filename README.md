@@ -76,5 +76,11 @@
       </ol>
     </ul>
   </li>
+  <li>
+    <strong>Testing Aplikasi Menggunakan Unit test:</strong>
+    <ul>
+        <li>Jalankan perintah php artisan test di terminal, untuk memastikan api sudah sesuai harus nya hasil dari test passed semua</li>
+    </ul>
+  </li>
 </ol>
 
